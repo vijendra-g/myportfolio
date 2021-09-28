@@ -9,9 +9,7 @@ I will post here often so please come back to check out my art!
 I've made a lot of pieces but for now I am going to include 2 copyright free stock images so I can get a grade for my Computer Science Project.
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](https://lh3.googleusercontent.com/proxy/U2Ey46ZB1UGJKkqWtsn1-wiQwJczOM4Rj2vu7XWVMUWbQsxGArNAnOyfwM2wE6OvAAKolz61tXwDSGXe0Zb4ydFzjVbpsko)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
