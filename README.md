@@ -10,7 +10,7 @@ I've made a lot of pieces but for now I am going to include 2 copyright free cli
 
 
 ![Image](https://lh3.googleusercontent.com/proxy/U2Ey46ZB1UGJKkqWtsn1-wiQwJczOM4Rj2vu7XWVMUWbQsxGArNAnOyfwM2wE6OvAAKolz61tXwDSGXe0Zb4ydFzjVbpsko)
-(![image](https://user-images.githubusercontent.com/91549695/135108320-019bbc0b-22ef-4584-bc28-a00ced4170a2.png)
+![image](https://user-images.githubusercontent.com/91549695/135108320-019bbc0b-22ef-4584-bc28-a00ced4170a2.png)
 
 For more details check out my instagram which I will not be linking :)
 ```
