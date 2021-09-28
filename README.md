@@ -1,6 +1,6 @@
 ## Welcome To My Portfolio
 
-You can use the [editor on GitHub](https://github.com/vijendra-g/myportfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an amateur [artist](https://en.wikipedia.org/wiki/Artist) from California. My skills mainly fall into 2d digital and analog art.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
