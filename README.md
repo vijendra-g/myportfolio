@@ -8,18 +8,6 @@ I will post here often so please come back to check out my art!
 
 I've made a lot of pieces but for now I am going to include 2 copyright free stock images so I can get a grade for my Computer Science Project.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
