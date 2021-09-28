@@ -2,11 +2,11 @@
 
 I am an amateur [artist](https://en.wikipedia.org/wiki/Artist) from California. My skills mainly fall into 2d digital and analog art.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will post here often so please come back to check out my art!
 
-### Markdown
+### My Pieces: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I've made a lot of pieces but for now I am going to include 2 copyright free stock images so I can get a grade for my Computer Science Project.
 
 ```markdown
 Syntax highlighted code block
